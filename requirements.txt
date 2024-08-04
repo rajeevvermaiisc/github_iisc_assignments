@@ -1,0 +1,6 @@
+# requirements.txt
+black
+pylint
+pytest
+
+#numpy
